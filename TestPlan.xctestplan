@@ -1,0 +1,24 @@
+{
+  "configurations" : [
+    {
+      "id" : "66D4497F-1B57-4770-857F-C87F8B144176",
+      "name" : "Configuration 1",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "testTimeoutsEnabled" : true
+  },
+  "testTargets" : [
+    {
+      "target" : {
+        "containerPath" : "container:XcodeCloudDemo.xcodeproj",
+        "identifier" : "38B28A18291C8AFF00694B5E",
+        "name" : "XcodeCloudDemoTests"
+      }
+    }
+  ],
+  "version" : 1
+}
